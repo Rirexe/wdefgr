@@ -1,1 +1,2 @@
-# wdefgr
+# Probot ✨
+Epic Discord Bot
